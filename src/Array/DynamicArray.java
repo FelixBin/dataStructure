@@ -31,7 +31,7 @@ public class DynamicArray<E> {
     }
 
     //获取数据是否为空
-    public boolean iEmpty() {
+    public boolean isEmpty() {
         return size == 0;
     }
 
@@ -134,8 +134,8 @@ public class DynamicArray<E> {
         data[size] = null;
 
         //缩容操作
-        if (size == data.length / 2 && data.length != 0) {
-            resize(data.length / 4);
+        if (size == data.length / 4 && data.length != 0) {
+            resize(data.length / 2);
         }
         //5.返回被删除的元素
         return ret;

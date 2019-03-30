@@ -1,18 +1,18 @@
 package Stack;
 
-import Array.GenericArray;
+import Array.DynamicArray;
 
 public class ArrayStack<E> implements Stack<E> {
-    GenericArray<E> array;
+    DynamicArray<E> array;
 
     //构造函数，传入栈的容量capacity构造函数
     public ArrayStack(int capacity) {
-        array = new GenericArray<E>(capacity);
+        array = new DynamicArray<E>(capacity);
     }
 
     //无参构造函数，默认栈的容量capacity=10
     public ArrayStack() {
-        array = new GenericArray<E>();
+        array = new DynamicArray<E>();
     }
 
     //获取栈中元素个数

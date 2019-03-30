@@ -11,5 +11,4 @@ public class TestMain {
         stack.pop();
         System.out.println(stack);
     }
-
 }
