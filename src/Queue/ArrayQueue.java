@@ -61,7 +61,7 @@ public class ArrayQueue<E> implements Queue<E> {
                 res.append(",");
             }
         }
-        res.append("] tail");//体现右侧为队尾
+        res.append("] rear");//体现右侧为队尾
         return res.toString();
     }
 }
