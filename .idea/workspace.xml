@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d9845c-6376-42d0-a101-4aa48a26407a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stack/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/structure/LinkedList/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/structure/LinkedList/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,62 +19,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="105" column="3" lean-forward="true" selection-start-line="105" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
               <folding>
-                <element signature="class#Node#0;class#LinkedList#0" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
-                <element signature="e#1498#1499#0" expanded="true" />
-                <element signature="e#1523#1524#0" expanded="true" />
-                <element signature="e#1598#1599#0" expanded="true" />
-                <element signature="e#2040#2041#0" expanded="true" />
-                <element signature="e#2120#2121#0" expanded="true" />
-                <element signature="e#3393#3394#0" expanded="true" />
-                <element signature="e#3449#3450#0" expanded="true" />
-                <element signature="e#3488#3489#0" expanded="true" />
-                <element signature="method#toString#0;class#LinkedList#0" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stack/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="159" column="25" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="25" />
+            <state relative-caret-position="368">
+              <caret line="174" column="7" selection-start-line="174" selection-start-column="7" selection-end-line="179" selection-end-column="30" />
               <folding>
-                <element signature="e#3356#3357#0" expanded="true" />
-                <element signature="e#3388#3389#0" expanded="true" />
+                <element signature="class#Node#0;class#LinkedList#0" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+                <element signature="e#1598#1599#0" expanded="true" />
+                <element signature="e#2011#2012#0" expanded="true" />
+                <element signature="e#2040#2041#0" expanded="true" />
+                <element signature="e#2084#2085#0" expanded="true" />
+                <element signature="e#2120#2121#0" expanded="true" />
+                <element signature="e#3361#3362#0" expanded="true" />
+                <element signature="e#3393#3394#0" expanded="true" />
+                <element signature="e#3449#3450#0" expanded="true" />
+                <element signature="e#3488#3489#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stack/LinkedListStack.java">
+        <entry file="file://$PROJECT_DIR$/src/Queue/LinkedListQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="198">
+              <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
               <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#967#976#0" expanded="true" />
+                <element signature="class#Node#0;class#LinkedListQueue#0" />
+                <element signature="e#2231#2240#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,7 +131,6 @@
         <option value="$PROJECT_DIR$/src/Stack/ArrayStack.java" />
         <option value="$PROJECT_DIR$/src/Array/DynamicArray.java" />
         <option value="$PROJECT_DIR$/src/Queue/DynamicArray.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/Queue/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Queue/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/Queue/LoopQueue.java" />
@@ -139,6 +139,8 @@
         <option value="$PROJECT_DIR$/src/Stack/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/Queue/LinkedListStack.java" />
         <option value="$PROJECT_DIR$/src/Stack/LinkedListStack.java" />
+        <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" />
       </list>
     </option>
   </component>
@@ -168,13 +170,13 @@
               <item name="structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +187,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554197453293" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554202466129" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
@@ -206,7 +208,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListStack">
+  <component name="RunManager" selected="Application.LinkedListQueue">
+    <configuration name="LinkedListQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.LinkedListQueue" />
+      <module name="structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.LinkedListStack" />
       <module name="structure" />
@@ -247,19 +262,6 @@
       </method>
     </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.TestMain" />
-      <module name="structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.TestMain" />
       <module name="structure" />
       <extension name="coverage">
@@ -273,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestMain" />
       <item itemvalue="Application.TestMain (1)" />
       <item itemvalue="Application.LoopQueue" />
       <item itemvalue="Application.TestMain (2)" />
       <item itemvalue="Application.LinkedListStack" />
+      <item itemvalue="Application.LinkedListQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListQueue" />
         <item itemvalue="Application.LinkedListStack" />
         <item itemvalue="Application.TestMain (2)" />
         <item itemvalue="Application.LoopQueue" />
         <item itemvalue="Application.TestMain (1)" />
-        <item itemvalue="Application.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +305,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -311,7 +313,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15359898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -319,7 +321,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5902965" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4208243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16981132" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,19 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Queue/DynamicArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -475,70 +464,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="106" column="44" lean-forward="true" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
-          <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#136#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-          <folding>
-            <element signature="class#Node#0;class#LinkedList#0" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1598#1599#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2120#2121#0" expanded="true" />
-            <element signature="e#3393#3394#0" expanded="true" />
-            <element signature="e#3449#3450#0" expanded="true" />
-            <element signature="e#3488#3489#0" expanded="true" />
-            <element signature="method#toString#0;class#LinkedList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="159" column="25" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="25" />
-          <folding>
-            <element signature="e#3356#3357#0" expanded="true" />
-            <element signature="e#3388#3389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/LinkedListStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="401">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
           <folding>
             <element signature="e#174#175#0" expanded="true" />
             <element signature="e#266#267#0" expanded="true" />
@@ -569,6 +500,87 @@
             <element signature="e#526#527#0" expanded="true" />
             <element signature="e#564#565#0" expanded="true" />
             <element signature="e#967#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="162" column="5" lean-forward="true" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+          <folding>
+            <element signature="e#3356#3357#0" expanded="true" />
+            <element signature="e#3388#3389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="174" column="7" selection-start-line="174" selection-start-column="7" selection-end-line="179" selection-end-column="30" />
+          <folding>
+            <element signature="class#Node#0;class#LinkedList#0" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
+            <element signature="e#2040#2041#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#3361#3362#0" expanded="true" />
+            <element signature="e#3393#3394#0" expanded="true" />
+            <element signature="e#3449#3450#0" expanded="true" />
+            <element signature="e#3488#3489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="105" column="3" lean-forward="true" selection-start-line="105" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+          <folding>
+            <element signature="class#Node#0;class#LinkedListQueue#0" />
+            <element signature="e#2231#2240#0" expanded="true" />
           </folding>
         </state>
       </provider>

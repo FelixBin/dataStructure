@@ -11,8 +11,8 @@ public interface Queue<E> {
     void enqueue(E e);
 
     //出队列
-    E dequeue();
+   public E dequeue();
 
     //获取队首元素
-    E getFront();
+    public  E getFront();
 }
