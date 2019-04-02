@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d9845c-6376-42d0-a101-4aa48a26407a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/LinkedListStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/structure/LinkedList/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/structure/LinkedList/TestMain.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="164">
-              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
               <folding>
                 <element signature="class#Node#0;class#LinkedList#0" />
                 <element signature="e#342#343#0" expanded="true" />
@@ -46,11 +45,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="208">
+              <caret line="159" column="25" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="25" />
+              <folding>
+                <element signature="e#3356#3357#0" expanded="true" />
+                <element signature="e#3388#3389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Stack/LinkedListStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#967#976#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stack/TestMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#135#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/src/LinkedList/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#136#145#0" expanded="true" />
               </folding>
@@ -100,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/LinkedList/TestMain.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/Stack/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Queue/LinkedListStack.java" />
+        <option value="$PROJECT_DIR$/src/Stack/LinkedListStack.java" />
       </list>
     </option>
   </component>
@@ -129,7 +168,7 @@
               <item name="structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="structure" type="b2602c69:ProjectViewProjectNode" />
@@ -146,7 +185,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554195058949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554197453293" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
@@ -167,13 +206,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMain (2)">
-    <configuration name="LoopQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.LoopQueue" />
+  <component name="RunManager" selected="Application.LinkedListStack">
+    <configuration name="LinkedListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.LinkedListStack" />
       <module name="structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,22 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="structure" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.TestMain" />
+    <configuration name="LoopQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.LoopQueue" />
       <module name="structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,15 +259,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.TestMain" />
+      <module name="structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.TestMain" />
       <item itemvalue="Application.TestMain (1)" />
       <item itemvalue="Application.LoopQueue" />
       <item itemvalue="Application.TestMain (2)" />
+      <item itemvalue="Application.LinkedListStack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListStack" />
         <item itemvalue="Application.TestMain (2)" />
         <item itemvalue="Application.LoopQueue" />
         <item itemvalue="Application.TestMain (1)" />
@@ -268,7 +311,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15359898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15359898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -276,7 +319,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.60107815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5902965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16981132" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,16 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#135#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -467,7 +500,7 @@
     <entry file="file://$PROJECT_DIR$/src/LinkedList/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#136#145#0" expanded="true" />
           </folding>
@@ -477,7 +510,7 @@
     <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
-          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding>
             <element signature="class#Node#0;class#LinkedList#0" />
             <element signature="e#342#343#0" expanded="true" />
@@ -501,8 +534,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="208">
+          <caret line="159" column="25" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="25" />
+          <folding>
+            <element signature="e#3356#3357#0" expanded="true" />
+            <element signature="e#3388#3389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#967#976#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
