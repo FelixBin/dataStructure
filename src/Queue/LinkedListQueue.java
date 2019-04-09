@@ -54,7 +54,7 @@ public class LinkedListQueue<E> implements Queue<E> {
         return size == 0;
     }
 
-    //进队操作
+    //链表尾部进队操作
     @Override
     public void enqueue(E e) {
         if (tail == null) {
@@ -67,7 +67,7 @@ public class LinkedListQueue<E> implements Queue<E> {
         size++;
     }
 
-    //出队操作
+    //链表头部出队操作
     @Override
     public E dequeue() {
         if (isEmpty()) {

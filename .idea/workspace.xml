@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d9845c-6376-42d0-a101-4aa48a26407a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,36 +25,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="105" column="3" lean-forward="true" selection-start-line="105" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
-              <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="174" column="7" selection-start-line="174" selection-start-column="7" selection-end-line="179" selection-end-column="30" />
+            <state relative-caret-position="242">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="class#Node#0;class#LinkedList#0" />
                 <element signature="e#793#794#0" expanded="true" />
                 <element signature="e#820#821#0" expanded="true" />
                 <element signature="e#867#868#0" expanded="true" />
@@ -69,38 +50,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Queue/LinkedListQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/BST/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+            <state relative-caret-position="309">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
               <folding>
-                <element signature="class#Node#0;class#LinkedListQueue#0" />
-                <element signature="e#2231#2240#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="method#add#1;class#BST#0" />
+                <element signature="n#!!block;n#contains#0;n#BST#0" />
+                <element signature="e#1267#1268#0" expanded="true" />
+                <element signature="method#contains#1;class#BST#0" />
+                <element signature="e#1770#1771#0" expanded="true" />
+                <element signature="method#preOrderTraverseRN#0;class#BST#0" />
+                <element signature="e#2497#2498#0" expanded="true" />
+                <element signature="e#2829#2830#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stack/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/BST/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#135#144#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#136#145#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="792">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -141,6 +120,13 @@
         <option value="$PROJECT_DIR$/src/Stack/LinkedListStack.java" />
         <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSubject/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSubject/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/SumArray.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSubject/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSubject/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/BST/Test.java" />
+        <option value="$PROJECT_DIR$/src/BST/BST.java" />
       </list>
     </option>
   </component>
@@ -170,13 +156,7 @@
               <item name="structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,11 +167,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554202466129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554805204434" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LeetCodeSubject" />
       <recent name="Stack" />
       <recent name="Queue" />
     </key>
@@ -208,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListQueue">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="LinkedListQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.LinkedListQueue" />
       <module name="structure" />
@@ -235,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.LoopQueue" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSubject.Solution" />
       <module name="structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="LeetCodeSubject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.TestMain" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSubject.Solution3" />
       <module name="structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="LeetCodeSubject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +242,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.TestMain" />
+    <configuration name="SumArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.SumArray" />
       <module name="structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST.Test" />
+      <module name="structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,19 +269,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestMain (1)" />
-      <item itemvalue="Application.LoopQueue" />
-      <item itemvalue="Application.TestMain (2)" />
-      <item itemvalue="Application.LinkedListStack" />
+      <item itemvalue="Application.SumArray" />
       <item itemvalue="Application.LinkedListQueue" />
+      <item itemvalue="Application.LinkedListStack" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.LinkedListQueue" />
         <item itemvalue="Application.LinkedListStack" />
-        <item itemvalue="Application.TestMain (2)" />
-        <item itemvalue="Application.LoopQueue" />
-        <item itemvalue="Application.TestMain (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +300,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -313,7 +308,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15359898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -321,7 +316,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4208243" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61994606" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16981132" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,19 +525,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="105" column="3" lean-forward="true" selection-start-line="105" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="198">
+          <caret line="9" column="9" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="class#Node#0;class#LinkedListQueue#0" />
+            <element signature="e#2214#2223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSubject/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/SumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSubject/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSubject/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSubject/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" selection-start-line="4" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="339" column="7" lean-forward="true" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
+          <folding>
+            <element signature="e#12107#12108#0" expanded="true" />
+            <element signature="e#12147#12148#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="174" column="7" selection-start-line="174" selection-start-column="7" selection-end-line="179" selection-end-column="30" />
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
-            <element signature="class#Node#0;class#LinkedList#0" />
             <element signature="e#793#794#0" expanded="true" />
             <element signature="e#820#821#0" expanded="true" />
             <element signature="e#867#868#0" expanded="true" />
@@ -561,26 +632,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/LoopQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/BST/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="105" column="3" lean-forward="true" selection-start-line="105" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
-          <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="792">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/LinkedListQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/BST/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+        <state relative-caret-position="309">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
           <folding>
-            <element signature="class#Node#0;class#LinkedListQueue#0" />
-            <element signature="e#2231#2240#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="method#add#1;class#BST#0" />
+            <element signature="n#!!block;n#contains#0;n#BST#0" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="method#contains#1;class#BST#0" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="method#preOrderTraverseRN#0;class#BST#0" />
+            <element signature="e#2497#2498#0" expanded="true" />
+            <element signature="e#2829#2830#0" expanded="true" />
           </folding>
         </state>
       </provider>
