@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d9845c-6376-42d0-a101-4aa48a26407a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BST/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSubject/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BST/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST/BST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BST/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+            <state relative-caret-position="256">
+              <caret line="201" column="2" lean-forward="true" selection-start-line="201" selection-start-column="2" selection-end-line="227" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#421#422#0" expanded="true" />
@@ -167,7 +159,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554805204434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554893641129" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
@@ -300,7 +292,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -308,7 +300,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15359898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -641,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BST/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+        <state relative-caret-position="256">
+          <caret line="201" column="2" lean-forward="true" selection-start-line="201" selection-start-column="2" selection-end-line="227" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#421#422#0" expanded="true" />
