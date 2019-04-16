@@ -1,4 +1,4 @@
-package LinkedList;
+package SetAndMap;
 
 public class LinkedList<E> {
     //将Node节点设计成私有的类中类
@@ -166,6 +166,7 @@ public class LinkedList<E> {
     public E removeLast() {
         return remove(size - 1);
     }
+
 
     //从链表中删除元素e
     public void removeElement(E e) {
