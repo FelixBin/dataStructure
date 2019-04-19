@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 public class LinkedListSet<E> implements Set<E> {
 

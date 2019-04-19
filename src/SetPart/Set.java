@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 /**
  * 集合的接口

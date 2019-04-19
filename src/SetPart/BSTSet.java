@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 //基于BST二分搜索树实现的集合Set
 public class BSTSet<E extends Comparable<E>> implements Set<E> {//元素E必须满足可比较的

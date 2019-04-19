@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 import java.util.LinkedList;
 import java.util.Queue;

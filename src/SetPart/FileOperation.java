@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 import java.io.FileInputStream;
 import java.util.ArrayList;

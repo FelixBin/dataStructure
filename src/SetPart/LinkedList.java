@@ -1,4 +1,4 @@
-package SetAndMap;
+package SetPart;
 
 public class LinkedList<E> {
     //将Node节点设计成私有的类中类
